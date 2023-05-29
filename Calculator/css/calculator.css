@@ -1,0 +1,52 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.wrapper{
+	width:360px;
+	height:360px;
+	background-color:#525253;
+	margin:20px auto;
+	border-radius:10px;
+	border:2px solid #010e0d;
+}
+
+.row{
+	width: 332px;
+    /* background-color: red; */
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.button{
+	padding: 10px;
+    height: 45px;
+    width: 80px;
+	font-weight:bold;
+	border-radius:20px;
+	font-size:22px;
+	background-color:white;
+	cursor:pointer;
+	border:none;
+}
+
+.Input_text{
+	padding: 15px;
+    width: 295px;
+    margin: 20px 0px 0px 13px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #ceddce;
+	border:none;
+}
+
+h2{
+	text-align:center;
+	font-weight:bolder;
+	color: white;
+}
+
+ .row  .active{
+	background-color:yellow;
+}
